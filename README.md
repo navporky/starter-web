@@ -15,3 +15,7 @@ Sample website with plenty of files for demos. As explained above, the main purp
 Simple web server, can be deplyed on any web server.
 
 ## How to contribute
+
+### Copyright
+
+2021 Git.Training
